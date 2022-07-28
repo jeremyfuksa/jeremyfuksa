@@ -13,3 +13,5 @@ I'm a UX Manager at Oracle Cerner. I've been designing and developing for the we
 <a href="https://dribbble.com/3rdmartini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="3rdmartini" height="30" width="40" /></a>
 <a href="https://medium.com/@jeremyfuksa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jeremyfuksa" height="30" width="40" /></a>
 </p>
+<hr>
+<p><a href="https://www.buymeacoffee.com/jeremyfuksa"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="jeremyfuksa" /></a></p>

@@ -1,5 +1,7 @@
 ### Hi there 👋, I'm Jeremy Fuksa.
-I'm a UX Manager at Oracle Cerner. I've been designing and developing for the web since 1995.
+I'm a UX Manager at Oracle Cerner. No. I haven't met Larry Ellison.
+
+I've been designing and developing for the web since 1995.
 
 👨‍💻 All of my projects are available at [https://jeremyfuksa.com](https://jeremyfuksa.com)
 
